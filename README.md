@@ -1,17 +1,17 @@
-Bem vindo ao CsvParser
-======================
+Bem vindo ao Regex
+==================
 
-[![](https://img.shields.io/packagist/v/cajudev/csvparser.svg)](https://packagist.org/packages/cajudev/csvparser)
-[![](https://img.shields.io/packagist/dt/cajudev/csvparser.svg)](https://packagist.org/packages/cajudev/csvparser)
-[![](https://img.shields.io/github/license/cajudev/csvparser.svg)](https://raw.githubusercontent.com/cajudev/csvparser/master/LICENSE)
-[![](https://img.shields.io/travis/cajudev/csvparser.svg)](https://travis-ci.org/cajudev/csvparser)
-[![](https://coveralls.io/repos/github/cajudev/csvparser/badge.svg?branch=master)](https://coveralls.io/github/cajudev/csvparser)
-[![](https://img.shields.io/github/issues/cajudev/csvparser.svg)](https://github.com/cajudev/csvparser/issues)
-[![](https://img.shields.io/github/contributors/cajudev/csvparser.svg)](https://github.com/cajudev/csvparser/graphs/contributors)
+[![](https://img.shields.io/packagist/v/cajudev/regex.svg)](https://packagist.org/packages/cajudev/regex)
+[![](https://img.shields.io/packagist/dt/cajudev/regex.svg)](https://packagist.org/packages/cajudev/regex)
+[![](https://img.shields.io/github/license/cajudev/regex.svg)](https://raw.githubusercontent.com/cajudev/regex/master/LICENSE)
+[![](https://img.shields.io/travis/cajudev/regex.svg)](https://travis-ci.org/cajudev/regex)
+[![](https://coveralls.io/repos/github/cajudev/regex/badge.svg?branch=master)](https://coveralls.io/github/cajudev/regex)
+[![](https://img.shields.io/github/issues/cajudev/regex.svg)](https://github.com/cajudev/regex/issues)
+[![](https://img.shields.io/github/contributors/cajudev/regex.svg)](https://github.com/cajudev/regex/graphs/contributors)
 
-Uma simples, porém eficiente interface para trabalhar com arquivos csv
+Uma interface mais amigável para trabalhar com expressões regulares.
 
-Leia a documentação completa em: http://cajudev.readthedocs.io/pt_BR/latest/csvparser
+Leia a documentação completa em: http://cajudev.readthedocs.io/pt_BR/latest/regex
 
 Características
 ---------------
